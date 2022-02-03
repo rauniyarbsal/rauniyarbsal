@@ -1,6 +1,6 @@
 
 <h1 align="center">&lt;Bishal Rauniyar /&gt;</h1>
-<h3 align="center">I'm a 3rd year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
+<h3 align="center">I'm a final year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
