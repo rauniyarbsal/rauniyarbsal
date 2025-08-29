@@ -1,5 +1,5 @@
 # Hi there, I'm &lt;Bishal/&gt;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rarchitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="rauniyarbsal" style="height: 20px; width: auto;"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rauniyarbsal&label=Profile%20views&color=0e75b6&style=flat" alt="rauniyarbsal" style="height: 20px; width: auto;"/> </p>
 
 
 ## I'm a Developer
