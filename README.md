@@ -2,7 +2,7 @@
 
 
 
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently pursuring my Master's at San Diego State University.
 - 🌱 I’m currently improving my skill in Software Development & Machine Learning.
