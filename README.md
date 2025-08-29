@@ -1,8 +1,8 @@
-# Hi there, I'm &lt;Bishal/&gt;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rauniyarbsal&label=Profile%20views&color=0e75b6&style=flat" alt="rauniyarbsal" style="height: 20px; width: auto;"/> </p>
+# Bishal Rauniyar;
 
 
-## I'm a Developer
+
+## Hi there 👋
 
 - 🔭 I’m currently pursuring my Master's at San Diego State University.
 - 🌱 I’m currently improving my skill in Software Development & Machine Learning.
