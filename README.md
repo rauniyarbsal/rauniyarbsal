@@ -4,15 +4,14 @@
 
 ## I'm a Developer
 
-- :mortar_board: I'm a 2022 graduate with a **B.E in Computer Science & Engineering** from **Dr. Ambedkar Institute Of Technology**
+- 🔭 I’m currently pursuring my Master's at San Diego State University.
 - 🌱 I’m currently improving my skill in Software Development & Machine Learning.
 - 🤔 I’m always looking forward to learn new things.
 - 💬 Ask me about java, python & in general software development
-- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Badminton lover. If missing the shuttlecock was an Olympic sport, I'd be a gold medalist! 🏸🥇
 
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/BsAl93622903)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bishalrauniyar/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rauniyar.bishal22/)  &nbsp; <a href="mailto:rauniyarbishal.grad@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bishalrauniyar/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/rauniyar.bishal22/)  &nbsp; <a href="mailto:rauniyarbishal.grad@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 ### 🚀 Languages and Tools:
